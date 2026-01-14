@@ -1,34 +1,25 @@
-# CryptoProtocolOps
+# Support Policy
 
-This repository is dedicated to **operational support, issue tracking, and maintenance**
-for crypto protocol infrastructure and integrations.
+Thank you for reaching out.
 
-## Purpose
-CryptoProtocolOps serves as a centralized place to:
-- Track bugs and operational issues
-- Handle protocol support requests
-- Document operational processes
-- Coordinate maintenance and updates
+## How to Get Support
+- Open a **GitHub Issue** in this repository
+- Clearly describe your problem or request
+- Provide non-sensitive technical details only
 
-## Support Guidelines
-- All support requests must be submitted as **GitHub Issues**
-- Do **not** share private keys, seed phrases, or sensitive information
-- Support is handled publicly for transparency and security
+## What We Support
+- Protocol operation issues
+- Integration questions
+- Bug reports
+- Documentation clarifications
 
-## Security Notice
-We will **never**:
-- Ask for private keys or recovery phrases
-- Initiate private messages for support
-- Request wallet access
+## What We Do NOT Support
+- Private or direct messages
+- Wallet recovery
+- Account access requests
+- Requests involving private keys or seed phrases
 
-If someone claims to be us and does any of the above, they are not legitimate.
+## Response Time
+We aim to review issues as soon as possible, but response times may vary.
 
-## Reporting Issues
-Please open an issue and include:
-- Clear description of the problem
-- Relevant transaction hashes (if applicable)
-- Chain/network details
-- Steps to reproduce (if technical)
-
-## License
-This repository is provided for operational and support purposes only.
+For your safety, all support remains public and transparent.
